@@ -23,28 +23,15 @@ To explore booking patterns, cancellations, customer behavior, and seasonal tren
 
 ### Questions and respective solution(it maybe visual screenshot or report screenshot)
 1). Analyze the reservation cancellation status in the hotel bookings dataset. Calculate the percentage distribution of canceled vs. non-canceled reservations and visualize this using a bar chart.
-screeshot : 
+screenshot : 
 
 
 2). Compare the reservation cancellation status across different types of hotels. Use a count plot to visualize how many bookings were canceled and not canceled for each hotel category.
-screeshot : 
+screenshot : 
 
 
 3). What is the cancellation rate (in percentage) for Resort Hotel and City Hotel individually?
-summary :
-
-** Resort Hotel \
-is_canceled\
-0    0.72025\
-1    0.27975\
-Name: proportion, dtype: float64
-
-
-** City Hotel
-is_canceled
-0    0.582918
-1    0.417082
-Name: proportion, dtype: float64
+screenshot : 
 
 4). Perform a time-based analysis of reservation cancellations and pricing trends in Resort and City hotels.
 screenshot : 
