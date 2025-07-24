@@ -31,8 +31,20 @@ screeshot :
 
 
 3). What is the cancellation rate (in percentage) for Resort Hotel and City Hotel individually?
-screenshot : 
+summary :
 
+** Resort Hotel
+is_canceled
+0    0.72025
+1    0.27975
+Name: proportion, dtype: float64
+
+
+** City Hotel
+is_canceled
+0    0.582918
+1    0.417082
+Name: proportion, dtype: float64
 
 4). Perform a time-based analysis of reservation cancellations and pricing trends in Resort and City hotels.
 screenshot : 
