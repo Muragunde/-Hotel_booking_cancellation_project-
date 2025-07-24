@@ -31,7 +31,8 @@ screenshot : https://github.com/Muragunde/-Hotel_booking_cancellation_project-/b
 
 
 3). What is the cancellation rate (in percentage) for Resort Hotel and City Hotel individually?
-screenshot : 
+screenshot : https://github.com/Muragunde/-Hotel_booking_cancellation_project-/blob/main/question%20-%203.png
+
 
 4). Perform a time-based analysis of reservation cancellations and pricing trends in Resort and City hotels.
 screenshot : 
