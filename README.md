@@ -27,7 +27,7 @@ screenshot : https://github.com/Muragunde/-Hotel_booking_cancellation_project-/b
 
 
 2). Compare the reservation cancellation status across different types of hotels. Use a count plot to visualize how many bookings were canceled and not canceled for each hotel category.
-screenshot : 
+screenshot : https://github.com/Muragunde/-Hotel_booking_cancellation_project-/blob/main/question%20-%202.png
 
 
 3). What is the cancellation rate (in percentage) for Resort Hotel and City Hotel individually?
