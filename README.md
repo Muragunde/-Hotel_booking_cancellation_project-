@@ -35,5 +35,5 @@ screenshot : https://github.com/Muragunde/-Hotel_booking_cancellation_project-/b
 
 
 4). Perform a time-based analysis of reservation cancellations and pricing trends in Resort and City hotels.
-screenshot : 
+screenshot : https://github.com/Muragunde/-Hotel_booking_cancellation_project-/blob/main/question%20-%204.png
 
